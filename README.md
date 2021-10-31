@@ -26,7 +26,7 @@ The final deliverable **must include all three of the below items**:
 
 The materials for steps #2 an #3 above should be submitted to your own specific GitHub repository, which can be created using the link below:
 
-https://classroom.github.com/g/Ziyu_n2S
+https://classroom.github.com/a/_upwcoSZ
 
 ### Important
 
@@ -61,11 +61,6 @@ you are submitting for this final project must be a clearly defined addition to
 the original project. In such a case, you will be graded only on the portion
 submitted for this course, not on the entire project.
 
-### Note
-
-If you'd like to work in a group, but are having a hard time finding other students, there
-is a [discussion thread](https://canvas.upenn.edu/courses/1533812/discussion_topics/6292804) on Canvas to help facilitate group formation.
-
 ## Grading
 
 The final project is worth 40% of the final grade and will be graded on four criteria:
@@ -92,8 +87,8 @@ Note: We'll cover both of these examples in much more detail in the new couple o
 
 **Option 2:** Use the Github Pages to display charts in a more blog-oriented format. Here are a couple of demo examples from last semester:
 
-- https://musa-620-fall-2019.github.io/github-pages-starter/folium-charts/
-- https://musa-620-fall-2019.github.io/github-pages-starter/measles-charts/
+- https://musa-620-fall-2020.github.io/github-pages-starter/folium-charts/
+- https://musa-620-fall-2020.github.io/github-pages-starter/measles-charts/
 
 ### Examples from Past Semesters
 
